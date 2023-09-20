@@ -1,7 +1,7 @@
 .speech {
     color: black;
     font-family: "Times New Roman", Times, serif;
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 .direction {
@@ -27,3 +27,36 @@
 .oswald {
     color: chocolate;
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    font-family: Arial, sans-serif;
+}
+  
+th {
+    background-color: #f2f2f2; 
+    text-align: left;
+    padding: 12px;
+    border: 1px solid #dddddd;
+}
+  
+tr {
+    background-color: #ffffff;
+}
+
+  tr:nth-child(even) {
+    background-color: #f2f2f2; 
+  }
+  
+  td {
+    padding: 12px;
+    border: 1px solid #dddddd;
+  }
+  
+  table {
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }

@@ -1,0 +1,29 @@
+.speech {
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1em;
+}
+
+.direction {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5em;
+    background-color: lightblue;
+}
+
+.direction:hover{
+    background-color: lightgreen;
+    color: red;
+}
+
+.regina {
+    color: purple;
+}
+
+.alving {
+    color: aqua;
+}
+
+.oswald {
+    color: chocolate;
+}

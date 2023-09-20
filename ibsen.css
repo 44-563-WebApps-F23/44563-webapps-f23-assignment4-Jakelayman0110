@@ -28,6 +28,12 @@
     color: chocolate;
 }
 
+.name:hover {
+    color: orange;
+    text-shadow: 2px 2px 4px #000000;
+    stroke: red 2px;
+}
+
 table {
     width: 100%;
     border-collapse: collapse;
